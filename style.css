@@ -1,0 +1,42 @@
+body {
+    background-image: url("background.jpg");
+}
+ .heading {
+     font-size: 30px;
+     width: 100%;
+     box-shadow: 5px 5px 10px aqua;
+     margin: 0;
+ }
+
+ hr {
+     height: 2px;
+ }
+
+ .heading_div {
+     float: none;
+     background-color: cadetblue;
+     padding: 10px;
+     border-radius: 20px;
+     color: darkblue;
+     font-size: 20px;
+ }
+
+ .head_div {
+     font-size: 16px;
+ }
+
+ .footer {
+     position: fixed;
+     bottom: 0;
+     background-color:tomato;
+     color: white;
+     width: 100%;
+     line-height: 3;
+     text-align: center;
+ }
+
+ canvas{
+border: violet 5px dashed;
+box-shadow: thistle 5px 5px 8px;
+margin-top: 85px;
+ }
